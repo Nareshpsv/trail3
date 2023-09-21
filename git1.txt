@@ -1,7 +1,3 @@
 file to add staging
 
-file commited!
-
-hello world!
-
-naresh 
+naresh
